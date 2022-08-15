@@ -24,3 +24,13 @@
 .additional-info p {
   margin-bottom: 0;
 }
+
+footer .text {
+    text-align: center;
+    margin: 15px 0px;
+    font-size: 20px;
+}
+
+footer .text .link{
+  text-decoration: none;
+}
