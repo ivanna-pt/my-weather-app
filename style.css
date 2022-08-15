@@ -1,0 +1,26 @@
+.temp-link {
+  color: inherit;
+  text-decoration: none;
+  font-size: inherit;
+}
+
+.temp-link:active {
+  font-weight: 700;
+}
+
+.temperature {
+  padding-left: 15px;
+  font-size: 56px;
+}
+
+/* .selected {
+  font-weight: 700;
+} */
+
+.t-units {
+  padding-top: 15px;
+}
+
+.additional-info p {
+  margin-bottom: 0;
+}
